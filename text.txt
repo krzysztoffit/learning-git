@@ -3,3 +3,5 @@ New line in this example file.
 And line added in new branch.
 
 There is last change in this file and in this module.
+
+OK, there is some work to do ;-)
