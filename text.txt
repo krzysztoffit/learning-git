@@ -1,7 +1,9 @@
-Some example file for test.
-New line in this example file.
-And line added in new branch.
 
-There is last change in this file and in this module.
-
-OK, there is some work to do ;-)
+***********************************************************
+* Some example file for test.                             *
+* New line in this example file.                          *
+* And line added in new branch.                           *
+* There is last change in this file and in this module.   *
+* OK, there is some work to do ;-)                        *
+* Still some work to do. This work never ends.            *
+***********************************************************
